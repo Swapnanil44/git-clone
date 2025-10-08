@@ -1,3 +1,4 @@
 const InitCommand = require('./init');
+const CatFileCommand = require('./cat-file')
 
-module.exports = {InitCommand}
+module.exports = {InitCommand,CatFileCommand}
